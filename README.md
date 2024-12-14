@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm K RAMESH ADIGA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshadigakunjal&label=Profile%20views&color=0e75b6&style=flat" alt="rameshadigakunjal" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 - 🔭 I’m currently working on **Music player app**
 
 - 🌱 I’m currently learning **React**
