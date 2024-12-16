@@ -1,17 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 50" style="background-color: #00000000;" width="500px" height="50px">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=FF6F61&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
+</div>
 
-  <path id="path0">
-    <animate id="d0" attributeName="d" begin="0s;d0.end" dur="6000ms" fill="remove" values="m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
-  </path>
-  <text font-family="&quot;Pacifico Code&quot;, monospace" fill="#00FF00" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
-    <textPath xlink:href="#path0">
-      Welcome To My Github Profile!
-    </textPath>
-  </text>
-</svg>
-      <br>
-      
-[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif)](https://rameshadigakunjal) 
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 <h1 align="center">Hi 👋, I'm K RAMESH ADIGA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshadigakunjal&label=Profile%20views&color=0e75b6&style=flat" alt="rameshadigakunjal" /> </p>
