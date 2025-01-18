@@ -79,3 +79,10 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshadigakunjal&show_icons=true&locale=en&theme=tokyonight" alt="rameshadigakunjal" />
 </p>
+
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Ramesh+Adiga" alt="Made by Ramesh Adiga"/>
+</div>
