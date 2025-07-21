@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
-- 🔭 I'm currently working on **Music player app**
+- 🔭 I'm currently working on **AgriPredict**
 
 - 🌱 I'm currently learning **React**
 
