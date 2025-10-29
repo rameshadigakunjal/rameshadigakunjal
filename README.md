@@ -15,8 +15,6 @@
 
 - 🔭 I'm currently working on **AgriPredict**
 
-- 🌱 I'm currently learning **React**
-
 - 📝 I regularly write articles on [https://rameshadigakunjal.blogspot.com/](https://ramesh-adiga.blogspot.com/)
 
 - 💬 Ask me about **Android , Java**
