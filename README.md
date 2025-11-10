@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
-- 🔭 I'm currently working on **AgriPredict**
+<!--- 🔭 I'm currently working on **AgriPredict** --->
 
 - 📝 I regularly write articles on [https://rameshadigakunjal.blogspot.com/](https://ramesh-adiga.blogspot.com/)
 
@@ -104,14 +104,15 @@
 </a>
 </p>
 
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshadigakunjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rameshadigakunjal" />
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshadigakunjal&theme=tokyonight" alt="mystreak"/>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshadigakunjal&show_icons=true&locale=en&theme=tokyonight" alt="rameshadigakunjal" />
 </p>
-
 
 ---
 
