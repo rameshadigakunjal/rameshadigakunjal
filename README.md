@@ -5,7 +5,7 @@
 <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <h1 align="center">Hi 👋, I'm K RAMESH ADIGA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rameshadigakunjal&label=Profile%20views&color=0e75b6&style=flat" alt="rameshadigakunjal" /> 
