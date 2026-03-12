@@ -121,8 +121,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshadigakunjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rameshadigakunjal" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshadigakunjal&theme=github_dark&hide_border=true)](https://github.com/rameshadigakunjal)
 
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshadigakunjal&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshadigakunjal&show_icons=true&locale=en&theme=tokyonight" alt="rameshadigakunjal" />
