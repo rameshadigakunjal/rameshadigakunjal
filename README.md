@@ -22,7 +22,7 @@
 - 📫 How to reach me **rameshadiga2002@gmail.com**
 
 - ⚡ Fun fact **Code is art**
-- sdsdfsdf
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
